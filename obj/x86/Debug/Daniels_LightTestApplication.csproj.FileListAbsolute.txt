@@ -1,0 +1,12 @@
+C:\Users\DDyck\Desktop\Daniels_LightTestApplication\bin\Debug\Daniels_LightTestApplication.exe.manifest
+C:\Users\DDyck\Desktop\Daniels_LightTestApplication\bin\Debug\Daniels_LightTestApplication.application
+C:\Users\DDyck\Desktop\Daniels_LightTestApplication\bin\Debug\Daniels_LightTestApplication.exe
+C:\Users\DDyck\Desktop\Daniels_LightTestApplication\bin\Debug\Daniels_LightTestApplication.pdb
+C:\Users\DDyck\Desktop\Daniels_LightTestApplication\obj\x86\Debug\Daniels_LightTestApplication.csprojResolveAssemblyReference.cache
+C:\Users\DDyck\Desktop\Daniels_LightTestApplication\obj\x86\Debug\Daniels_LightTestApplication.MainForm.resources
+C:\Users\DDyck\Desktop\Daniels_LightTestApplication\obj\x86\Debug\Daniels_LightTestApplication.Properties.Resources.resources
+C:\Users\DDyck\Desktop\Daniels_LightTestApplication\obj\x86\Debug\Daniels_LightTestApplication.csproj.GenerateResource.Cache
+C:\Users\DDyck\Desktop\Daniels_LightTestApplication\obj\x86\Debug\Daniels_LightTestApplication.exe.manifest
+C:\Users\DDyck\Desktop\Daniels_LightTestApplication\obj\x86\Debug\Daniels_LightTestApplication.application
+C:\Users\DDyck\Desktop\Daniels_LightTestApplication\obj\x86\Debug\Daniels_LightTestApplication.exe
+C:\Users\DDyck\Desktop\Daniels_LightTestApplication\obj\x86\Debug\Daniels_LightTestApplication.pdb
